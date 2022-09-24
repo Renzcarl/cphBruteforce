@@ -5,6 +5,8 @@
  $ apt upgrade
 
  $ git clone https://github.com/Renzcarl/cphBruteforce/tree/main
+   
+ $ cd cphBruteforce
 
  $ python3 CPHBruteForce.py
 

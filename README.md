@@ -1,5 +1,3 @@
-FOR FUN ONLY!!
-
  INSTALLATION
 
  $ apt update
@@ -10,4 +8,4 @@ FOR FUN ONLY!!
 
  $ python3 CPHBruteForce.py
 
-CREATED BY MR.BruTus
+CREATED BY MR.BruTus,BLU3N1N3S

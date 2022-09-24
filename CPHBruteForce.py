@@ -43,7 +43,7 @@ ired' in r.text:
         return True
         return False
         
-        print('\n---------- Welcome To Facebook BruteForce ----------\n')
+        print('\n---------- Welcome To CPHBruteForce By.Mr.BruTus ----------\n')
 file= input("Enter File Name : ")
                                                                       file= open(file, "r")
                                                                       email=input('Enter Email/Username : ')                                
